@@ -1,0 +1,1 @@
+{"name":"project-shelf-api","version":"1.0.0","private":true,"type":"module","description":"Catálogo local de projetos com filtros, paginação e persistência","engines":{"node":">=22"},"scripts":{"start":"node src/server.js","test":"node --test"},"license":"MIT"}

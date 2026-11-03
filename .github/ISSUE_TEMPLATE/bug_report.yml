@@ -1,0 +1,24 @@
+name: Relatar falha
+description: Ajude a reproduzir um problema da API
+title: "[Bug] "
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Ambiente
+      description: Sistema operacional e saída de node --version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos e comando mínimo
+      description: Use dados fictícios. Nunca envie tokens ou dados pessoais.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado e observado
+    validations:
+      required: true
