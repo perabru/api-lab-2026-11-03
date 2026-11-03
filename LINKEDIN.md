@@ -1,4 +1,8 @@
-# Texto para revisão — não publicado
+# Texto publicado no LinkedIn
+
+Publicado em 03/11/2026 no perfil Bruno Pera, após autorização explícita do usuário.
+
+[Ver publicação](https://www.linkedin.com/feed/update/urn:li:activity:7523340655767719936/)
 
 Compartilho uma API para organizar projetos de aulas, portfólio ou laboratório: um catálogo local em Node.js, sem dependências externas.
 
